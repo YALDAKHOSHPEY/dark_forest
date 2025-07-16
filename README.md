@@ -38,3 +38,27 @@ Save the code in a file named:
 
 ```bash
 dark_forest_survival.py
+🌲 You wake up in a dark forest. The air is cold.
+What's your name, survivor? Aria
+
+🧍 Welcome, Aria... Your journey begins now.
+
+🔄 Round 1:
+❤️ Health: 100 | ⚡ Energy: 100 | 🎒 Inventory: []
+
+🧮 You discover a wild berry bush.
+Do you eat them? (yes/no): yes
+😋 They are delicious! You gain energy.
+
+👉 Continue exploring? (yes/no): yes
+
+🔄 Round 2:
+❤️ Health: 100 | ⚡ Energy: 115 | 🎒 Inventory: []
+
+🐻 A bear appears! Do you (run) or (fight)? fight
+😱 You have no weapon. The bear injures you badly.
+
+❤️ Health: 50 | ⚡ Energy: 95 | 🎒 Inventory: []
+
+👉 Continue exploring? (yes/no): no
+🌅 You found a way out of the forest. You survive.
